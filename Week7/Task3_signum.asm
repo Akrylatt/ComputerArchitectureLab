@@ -1,4 +1,4 @@
-# Description : Addition of two numbers !
+# Description : Signum function
 .data
 msg1: .asciiz " Enter your number : "
 
