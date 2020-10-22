@@ -20,7 +20,6 @@ bltz $t1, negative # < 0
 bgtz $t1, positive # > 0
 
 zero: 
-	#add $t3, 0, $zero # usualy used for moving to another register
 	addi $t3, $zero, 0
 	j printRes
 negative:
