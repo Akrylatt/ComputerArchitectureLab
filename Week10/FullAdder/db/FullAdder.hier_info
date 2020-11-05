@@ -1,0 +1,11 @@
+|FullAdder
+a => SYNTHESIZED_WIRE_4.IN0
+a => SYNTHESIZED_WIRE_2.IN0
+b => SYNTHESIZED_WIRE_4.IN1
+b => SYNTHESIZED_WIRE_2.IN1
+carry_in => sum.IN1
+carry_in => SYNTHESIZED_WIRE_3.IN1
+sum << sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out << carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

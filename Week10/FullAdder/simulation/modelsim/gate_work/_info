@@ -1,0 +1,77 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/simulation/modelsim
+vfull_adder_testbench
+!s110 1604587537
+!i10b 1
+!s100 dFEF]6iiJzbzJNe3VVnz]1
+IZf``A4@L6@10cMJHRhUOk3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604587164
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/full_adder_testbench.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/full_adder_testbench.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1604587536.000000
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/full_adder_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/full_adder_testbench.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder
+Z6 tCvgOpt 0
+vFullAdder
+Z7 !s110 1604587536
+!i10b 1
+!s100 3c[cf4RFC`jk8fj_YFDm?1
+I4AGNKdOF=WY_NRchI]]Oa1
+R1
+R0
+w1604587125
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/FullAdder.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/FullAdder.v
+L0 19
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/FullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week10/FullAdder/FullAdder.v|
+!i113 1
+R4
+R5
+R6
+n@full@adder
+vhard_block
+R7
+!i10b 1
+!s100 nh@VHF=db0oomF[fNEFZo3
+Id2iJUiBIk4>9eN93R0AmD1
+R1
+R0
+w1604587527
+8FullAdder.vo
+FFullAdder.vo
+L0 280
+R2
+r1
+!s85 0
+31
+!s108 1604587535.000000
+!s107 FullAdder.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|FullAdder.vo|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+.
+R6
