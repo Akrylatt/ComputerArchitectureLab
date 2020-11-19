@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/simulation/modelsim
+vadd
+Z1 !s110 1605795986
+!i10b 1
+!s100 D42Tz>QQ=<JiPOz1fjCQO0
+I?5EnUN6[zm_Uc2SebC5OG3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1605793331
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/add.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/add.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1605795986.000000
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/add.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1
+Z7 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 BWOa9Gb@d@1`KT4PT`MF23
+IP4ebmoYVFJYB6@b[em]980
+R2
+R0
+w1605793890
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/alu.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/alu.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+Z8 !s110 1605795985
+!i10b 1
+!s100 2>=6LoEINe;Pd5C[_YB=00
+IJV4XAQ5DOUfRc2B@jMRBQ0
+R2
+R0
+w1605795979
+8alu.vo
+Falu.vo
+L0 7144
+R3
+r1
+!s85 0
+31
+Z9 !s108 1605795985.000000
+!s107 alu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|alu.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmux
+R1
+!i10b 1
+!s100 ZI8RWXEPNb_XUBAYSO]4_3
+Ic60F<M77WdIYoac@SM>gX2
+R2
+R0
+w1605795247
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/mux.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/mux.v|
+!i113 1
+R5
+R6
+R7
+vsrt
+R1
+!i10b 1
+!s100 >Pm^CQj^e>l<S7ADaS4ZO1
+IQb=S0aRg=35cFGX7T<Bga3
+R2
+R0
+w1605795098
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/srt.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/srt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/srt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/srt.v|
+!i113 1
+R5
+R6
+R7
+vsub
+R1
+!i10b 1
+!s100 hJ_3JdgaQ1kkW:@SX<Ui?3
+Ien47FMDiGN8z[0n3gz]nl0
+R2
+R0
+w1605793370
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/sub.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/sub.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/sub.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R8
+!i10b 1
+!s100 VU<Ke=3?51SQ^9?I4MkP=1
+I]B_j0TYdFYQ2aVT1?6;X81
+R2
+R0
+w1605795321
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/testbench.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week11/Ex1/testbench.v|
+!i113 1
+R5
+R6
+R7
