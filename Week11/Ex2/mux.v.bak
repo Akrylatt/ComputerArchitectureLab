@@ -1,0 +1,15 @@
+module mux(
+	input [31:0] a, b,
+	input [6:0] d
+	output [31:0] out
+);
+endmodule
+
+always@(funct) begin
+	case(funct)
+		6'b10000: begin
+		assign rd = rs + rt;
+		end
+	
+	endcase
+end
